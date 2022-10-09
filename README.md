@@ -2,7 +2,7 @@
 ## Abstract
 * It can randomly roll a image from all directories or one specific directory.
 * It can be used with my another project [Dcbot-Image-Downloader](https://github.com/s21543775/dcbot-image-downloader)
-* If images are named as tweet ids (like Dcbot-Image-Downloader), it can attach the original tweet's link on the embed's infomation when rolling an image.
+* If images are named after tweet ids (like Dcbot-Image-Downloader), it can attach the original tweet's link on the embed's infomation when rolling an image.
 
 ![](https://i.imgur.com/8Ab4fzc.png)
 ## How to use
@@ -29,10 +29,10 @@ TOKEN = your discord bot token
 ![](https://i.imgur.com/01RDAq9.png)
 ![](https://i.imgur.com/7QReonS.png)
 ### Run the dcbot program
-* If you use [Dcbot-Image-Downloader](https://github.com/s21543775/dcbot-image-downloader) to download images or save images by their tweet ids, use **image_roller_twitter.pyw**
+* If you use [Dcbot-Image-Downloader](https://github.com/s21543775/dcbot-image-downloader) to download images or name images after their tweet ids, use **image_roller_twitter.pyw**
 > It will attach original tweet's link on the embed.
 
-* If you didn't save images by their tweet ids, use **image_roller.pyw**
+* If you didn't name images after their tweet ids, use **image_roller.pyw**
 ### Done!
 ## Command Intro
 ### /roll + (directory name)
